@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Victor Ademola
 
-🎓 Data Scientist | 📊 Data Analyst | 💻 Machine Learning Enthusiast
+🎓 Power BI Developer | 📊 Data Analyst | 💻 BI Analyst
 
 I'm a passionate Data Professional with expertise in data analysis, machine learning, and business intelligence. I love transforming data into meaningful insights and making data-driven decisions. 
 
@@ -10,7 +10,7 @@ I'm a passionate Data Professional with expertise in data analysis, machine lear
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
 
 ### Data & Machine Learning Libraries:
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -26,11 +26,11 @@ I'm a passionate Data Professional with expertise in data analysis, machine lear
 
 ## 🔧 Skills & Tools
 
-- **Programming Languages**: Python, R, SQL, MATLAB
+- **Programming Languages**: Python, SQL,
 - **Libraries/Frameworks**: pandas, NumPy, scikit-learn, TensorFlow, PyTorch
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Data Visualization**: Power BI, Tableau, Matplotlib, Seaborn
-- **Cloud Platforms**: AWS, Google Cloud Platform, Azure
+- **Databases**: SQL, PostgreSQL, MongoDB
+- **Data Visualization**: Power BI, Matplotlib, Seaborn
+- **Cloud Platforms**:  Azure
 
 ## 🏆 Certifications & Achievements
 - **Google Advanced Data Analytics Certificate**
