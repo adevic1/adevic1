@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Victor Ademola
 
-🎓 Power BI Developer | 📊 Data Analyst | 💻 BI Analyst
+🎓 Power BI Developer | 📊 Data Analyst | 💻 BI Analyst | 📊 Project Management
 
-I'm a passionate Data Professional with expertise in data analysis, machine learning, and business intelligence. I love transforming data into meaningful insights and making data-driven decisions. 
+Results-driven Project Manager / Business Analyst / Business Intelligence Analyst with 5+ years of cross-functional experience in driving digital transformation, managing projects, and delivering data-driven insights for business growth. Adept at bridging business needs with technical solutions, leveraging tools such as Power BI, SQL, Power Platform, and Agile methodologies to optimize decision-making and improve performance. Skilled in stakeholder management, process improvement, and solution delivery across industries.
 
 ## 🛠️ Tech Stack
 
